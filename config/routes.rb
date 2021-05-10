@@ -1,3 +1,8 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  scope :api, defaults: { format: :json } do 
+    resources :categories, only: %i[index]
+    resources :restaurants, only: %i[index show]
+    resources :orders, only: %i[create show]
+    resources :available_cities, only: %i[index]
+  end
 end
