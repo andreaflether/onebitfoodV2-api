@@ -30,7 +30,6 @@ puts 'Cadastrando Restaurantes'
     description: Faker::Restaurant.description,
   )
   r.image.attach(io: File.open("#{RESTAURANTS_PATH}/#{i+1}.jpeg"), filename: "#{i+1}.jpeg")
-  
 end
 
 puts 'Cadastrando categorias de produtos'

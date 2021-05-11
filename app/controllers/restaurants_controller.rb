@@ -1,7 +1,15 @@
 class RestaurantsController < ApplicationController
-  def show
-  end
+  before_action :set_restaurant, only: %i[show]
 
   def index
+    @restaurants = Restaurant.all
+  end
+  
+  def show; end
+
+  private
+
+  def set_restaurant
+    @restaurant = Restaurant.find(params[:id])
   end
 end
