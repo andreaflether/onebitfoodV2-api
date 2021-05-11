@@ -1,0 +1,5 @@
+Mexicana|mexican.jpg
+Japonesa|japonese.jpeg
+Italiana|italian.jpeg
+Vegana|vegan.jpeg
+Peruana|peruvian.jpg

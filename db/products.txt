@@ -1,0 +1,14 @@
+Nacho Guacamole|19|Tortilhas com Guacamole|1|nachosg.jpg
+Nacho|19|Tortilhas com milho|1|nachosg2.jpeg
+Burrito|8|Burrito completo|1|bt.jpg
+Quesadilla|25|Quesadilha de queijo de tomate|1|quesa.jpeg
+Berinjela à parmegiana|32|Com arroz e fritas|2|berinjela.jpg
+Fritas+Bacon|16|Batata frita com bacon|2|fritas.jpg
+Fogazza Bacon|12|Bacon, parmesão e mussarela|3|fogazza.jpg
+Fogazza à Moda da Casa|44|Calabresa, bacon, palmito e mussarela|3|fogazza.jpg
+Temaki|19.99|Enrolado de arroz com alga marinha em forma de cone|4|temaki.jpeg
+Sashimi|30.90|Peixe cru fatiado, salmão, atum e peixe prego|4|sashimi.jpg
+Hossomaki - 16 unidades|20.90|Enrolado fino com folha de alga marinha por fora|4|hosomaki.jpg
+Hot roll - 10 unidades|12|10 unidades|4|hot-holl.jpg
+Coleslaw|8.99|Repolho roxo, couve, cenoura, cebola, maionese de castanha e xylitol|5|coleslaw.jpg
+Side salad|9.90|Mix de folhas com cenoura ralada, tomatinho sweet e semente de girassol|5|side-salad.jpeg
