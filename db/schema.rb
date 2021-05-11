@@ -61,6 +61,7 @@ ActiveRecord::Schema.define(version: 2021_05_10_192136) do
     t.string "phone_number"
     t.float "total_value"
     t.string "city"
+    t.string "street"
     t.string "neighborhood"
     t.string "number"
     t.string "complement"

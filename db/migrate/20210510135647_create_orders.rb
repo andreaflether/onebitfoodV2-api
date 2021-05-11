@@ -5,6 +5,7 @@ class CreateOrders < ActiveRecord::Migration[6.1]
       t.string :phone_number
       t.float :total_value
       t.string :city
+      t.string :street
       t.string :neighborhood
       t.string :number
       t.string :complement
