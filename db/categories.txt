@@ -1,5 +1,5 @@
-mexicana|mexican.jpg
-japonesa|japonese.jpeg
-italiana|italian.jpeg
-vegana|vegan.jpeg
-peruana|peruvian.jpg
+Comida mexicana|mexican.jpg
+Comida japonesa|japonese.jpeg
+Comida italiana|italian.jpeg
+Comida vegana|vegan.jpeg
+Comida peruana|peruvian.jpg
